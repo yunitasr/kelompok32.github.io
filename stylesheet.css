@@ -68,7 +68,7 @@ a {
 .container p {
   margin-bottom: 3px;
   color: rgb(0, 0, 0);
-  font-size: large;
+  font-size: 24px;
 }
 
 
@@ -145,19 +145,6 @@ marquee {
   border-bottom: 1px solid #eee;
   padding-bottom: 50px;
   text-align: center;
-}
-
-.message {
-  padding: 15px 40px;
-  background-color: #5dca88;
-  cursor: pointer;
-  box-shadow: 0 7px #1a7940;
-}
-
-.message:active {
-  position: relative;
-  top: 7px;
-  box-shadow: none;
 }
 
 footer img {
