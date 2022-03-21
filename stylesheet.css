@@ -172,6 +172,27 @@ footer {
   background-color: rgba(169, 219, 248, 0.9);
 }
 
+.footer li img {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 0 20px;
+  text-decoration: none;
+  line-height: 65px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Lucida Sans";
+}
+
+.footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+
 th {
   background-color: purple;
   text-align: center;
